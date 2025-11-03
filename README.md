@@ -1,4 +1,4 @@
-# Lab 5: Edge Detection and Segmentation
+# Lab 5 - Edge Detection and Segmentation
 
 This script loads a color image, converts it to grayscale and double precision, then applies several classic edge detectors and a simple segmentation workflow. The figures show the key outputs for each step. 
 
